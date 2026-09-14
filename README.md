@@ -4,7 +4,7 @@
 
 ## Computer
 
-## How to run
+## Use git hub
 
 ## I learned how to use many different git commands.
 
